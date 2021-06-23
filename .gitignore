@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# 认证信息
+hook/aut.py
+resource/version_downloader_action/aut.py
